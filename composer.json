@@ -18,7 +18,7 @@
         "joaopaulolndev/filament-general-settings": "^1.0",
         "joaopaulolndev/filament-pdf-viewer": "^1.0",
         "joaopaulolndev/filament-world-clock": "^1.0",
-        "laravel/framework": "^12.0",
+        "laravel/framework": "^11.45",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
         "spatie/ssl-certificate": "^2.6"
